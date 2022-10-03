@@ -1,5 +1,4 @@
-visual studio code
-setup JEST,YARN trong visual studio code:
+SETUP JEST,YARN TRONG VSCODE:
 cài đặt 1 số extension sau: search từ khóa “JEST” “YARN” và cài: jest, jest runner, jest snippets, yarn
 khởi tạo project npm bằng cách vào terminal trong VS code và gõ code sau:
 npm init
@@ -13,7 +12,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 cài JEST
 yarn add - -dev jest
 
-sử dụng babel (convert code lên ES6 để jest hiểu)
+SỬ DỤNG BABEL (convert code lên ES6 để jest hiểu)
 copy code sau vào terminal:
 yarn add --dev babel-jest @babel/core @babel/preset-env
 tạo file babel.config.js ở folder gốc và copy code dưới:
@@ -21,13 +20,13 @@ module.exports = {
  presets: [['@babel/preset-env', {targets: {node: 'current'}}]],
 };
 
-cài prettier định dạng code:
+CÀI PRETTIER ĐỂ ĐỊNH DẠNG CODE CHO ĐẸP:
 vào setting vscode -> search edit format -> enable format on save
 ctrl+shift+P -> chọn default về prettier.
 vào trang chủ prettier -> playground -> chỉnh cấu hình trong này (print With: 100, check single quote) -> copy config JS -> paste vào file .prettierrc(để ở folder gốc dự án)
 
 
-câu lệnh đơn giản trong github:
+CÂU LỆNH ĐƠN GIẢN TRONG GITHUB:
 
 git clone “HTTP” hoặc “SSH”
 git status
