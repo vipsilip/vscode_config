@@ -27,9 +27,22 @@ vào trang chủ prettier -> playground -> chỉnh cấu hình trong này (print
 
 
 CÂU LỆNH ĐƠN GIẢN TRONG GITHUB:
+CONFIG GIT
+git config --list
+git config --global user.name "Thanh Hai"
+git config --global user.email "thanhhai.hvdn@gmail.com"
 
+CLONE GIT (TỪ CLOUD XUỐNG LOCAL)
 git clone “HTTP” hoặc “SSH”
 git status
 git add .
 git commit -m “nội dung”
 git push origin main
+
+REMOTE GIT (TỪ LOCAL LÊN CLOUD)
+git init
+git status
+git add .
+git commit -m "nội dung"
+git remote link
+git push origin master
