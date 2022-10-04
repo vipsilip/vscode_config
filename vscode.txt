@@ -29,25 +29,28 @@ vào trang chủ prettier -> playground -> chỉnh cấu hình trong này (print
 CÂU LỆNH ĐƠN GIẢN TRONG GITHUB:
 CONFIG GIT
 git config --list
-git config --global user.name "Thanh Hai"
-git config --global user.email "thanhhai.hvdn@gmail.com"
+git config --global user.name "<Thanh Hai>"
+git config --global user.email "<thanhhai.hvdn@gmail.com>"
 
 CLONE GIT (TỪ CLOUD XUỐNG LOCAL)
-git clone “HTTP” hoặc “SSH”
+git clone <“HTTP” hoặc “SSH”>
 git status
 git add .
-git commit -m “nội dung”
+git commit -m <nội dung>
 git push origin main
 
 REMOTE GIT (TỪ LOCAL LÊN CLOUD)
 git init
 git status
 git add .
-git commit -m "nội dung"
-git remote link
+git commit -m <nội dung>
+git remote <“HTTP” hoặc “SSH”>
 git push origin master
 
 KÉO CODE VỀ (TEAMWORK)
 git pull origin main - kéo code của người khác về local
-git checkout -b NameBranch - tạo mới branch
-git checkout NameBranch - switch qua lại giữa các branch
+git checkout -b <branchName> - tạo mới branch
+git checkout <branchName> - switch qua lại giữa các branch
+git branch - check branch trên git
+git branch -d <branchName> - xóa branch trên local
+git push -d origin <branchName> - xóa branch trên remote
