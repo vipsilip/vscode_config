@@ -46,3 +46,8 @@ git add .
 git commit -m "nội dung"
 git remote link
 git push origin master
+
+KÉO CODE VỀ (TEAMWORK)
+git pull origin main - kéo code của người khác về local
+git checkout -b NameBranch - tạo mới branch
+git checkout NameBranch - switch qua lại giữa các branch
