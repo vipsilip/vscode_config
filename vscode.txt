@@ -32,14 +32,14 @@ git config --list
 git config --global user.name "<Thanh Hai>"
 git config --global user.email "<thanhhai.hvdn@gmail.com>"
 
-CLONE GIT (TỪ CLOUD XUỐNG LOCAL)
+CLONE GIT (TỪ REMOTE XUỐNG LOCAL)
 git clone <“HTTP” hoặc “SSH”>
 git status
 git add .
 git commit -m <nội dung>
 git push origin main
 
-REMOTE GIT (TỪ LOCAL LÊN CLOUD)
+REMOTE GIT (TỪ LOCAL LÊN REMOTE)
 git init
 git status
 git add .
@@ -47,7 +47,7 @@ git commit -m <nội dung>
 git remote <“HTTP” hoặc “SSH”>
 git push origin master
 
-KÉO CODE VỀ (TEAMWORK)
+PULL CODE (TEAMWORK)
 git pull origin main - kéo code của người khác về local
 git checkout -b <branchName> - tạo mới branch
 git checkout <branchName> - switch qua lại giữa các branch
