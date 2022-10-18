@@ -26,6 +26,7 @@ CÀI PRETTIER ĐỂ ĐỊNH DẠNG CODE CHO ĐẸP:
 vào setting vscode -> search edit format -> enable format on save
 ctrl+shift+P -> chọn default về prettier.
 vào trang chủ prettier -> playground -> chỉnh cấu hình trong này (print With: 100, check single quote) -> copy config JS -> paste vào file .prettierrc(để ở folder gốc dự án)
+
 TRƯỜNG HỢP BỊ LỖI FONT TRONG VSCODE KHI SYNC SETTING XONG:
 add lại font fira_code vào font trong windows
 
