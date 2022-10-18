@@ -6,6 +6,8 @@ cài yarn:
 npm install -g yarn
 xóa yarn:
 npm uninstall -g yarn
+chỉnh lại đường dẫn path trong windows:
+vào my computer -> system properties -> environment variables -> bấm vào path trong system variables -> new -> thêm đường dẫn sau (C:\Users\hailnt\AppData\Roaming\npm\node_modules\yarn\bin)
 enable script
 Get-ExecutionPolicy -List
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
