@@ -1,34 +1,34 @@
 SETUP JEST,YARN TRONG VSCODE:
-cài đặt 1 số extension sau: search từ khóa “JEST” “YARN” và cài: jest, jest runner, jest snippets, yarn
+cài đặt 1 số extension sau: search từ khóa “JEST” và cài: jest, jest runner, jest snippets
 khởi tạo project npm bằng cách vào terminal trong VS code và gõ code sau:
 npm init
 cài yarn: 
 npm install -g yarn
 xóa yarn:
 npm uninstall -g yarn
-chỉnh lại đường dẫn path trong windows:
+chỉnh lại đường dẫn path trong windows(NẾU BỊ LỖI):
 vào my computer -> system properties -> environment variables -> bấm vào path trong system variables -> new -> thêm đường dẫn sau (C:\Users\hailnt\AppData\Roaming\npm\node_modules\yarn\bin)
-enable script
+ENABLE SCRIPT:
 Get-ExecutionPolicy -List
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-cài JEST
+cài JEST:
 yarn add - -dev jest
 
-SỬ DỤNG BABEL (convert code lên ES6 để jest hiểu)
+SỬ DỤNG BABEL(convert code lên ES6 để jest hiểu)
 copy code sau vào terminal:
 yarn add --dev babel-jest @babel/core @babel/preset-env
-tạo file babel.config.js ở folder gốc và copy code dưới:
+tạo file babel.config.js ở folder gốc và copy code dưới vào file vừa tạo:
 module.exports = {
  presets: [['@babel/preset-env', {targets: {node: 'current'}}]],
 };
 
 CÀI PRETTIER ĐỂ ĐỊNH DẠNG CODE CHO ĐẸP:
 vào setting vscode -> search edit format -> enable format on save
-ctrl+shift+P -> chọn default về prettier.
+ctrl+shift+P -> chọn default về prettier.(FORMAT DOCUMENT WITH...)
 vào trang chủ prettier -> playground -> chỉnh cấu hình trong này (print With: 100, check single quote) -> copy config JS -> paste vào file .prettierrc(để ở folder gốc dự án)
 
 TRƯỜNG HỢP BỊ LỖI FONT TRONG VSCODE KHI SYNC SETTING XONG:
-add lại font fira_code vào font trong windows
+add lại font fira_code vào font(CONTROL PANEL) trong windows
 
 CÂU LỆNH ĐƠN GIẢN TRONG GITHUB:
 CONFIG GIT
