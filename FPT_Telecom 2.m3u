@@ -1,6 +1,3 @@
-
-
-
 #EXTM3U
 #EXTINF:-1  tvg-id="VTV1 HD" tvg-logo="",VTV1 HD
 udp://@225.1.2.249:30120
