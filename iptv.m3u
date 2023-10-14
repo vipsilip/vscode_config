@@ -1,11 +1,11 @@
 #EXTM3U
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trong_nước" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1
-udp://@225.1.4.1:30120
+udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Trong_nước" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2
-udp://@225.1.4.2:30120
+udp://@225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Trong_nước" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3
-udp://@225.1.4.3:30120
+udp://@225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv4hd" group-title="Trong_nước" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4
 udp://@225.1.4.4:30120
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Trong_nước" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ
