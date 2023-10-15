@@ -1,20 +1,17 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
+# K+ Cab
 
-#EXTINF: -1 tvg-id = "kcinehd" group-title = " K+ FPT " tvg-logo = "https://i.imgur.com/sjtauW7.png", K + CINE HD
-#KODIPROP: inputstream.adaptive.license_type = clearkey
-#KODIPROP: inputstream.adaptive.license_key = https: //code.television4you.xyz/key.php? Kid = 2761754f661634d49560631198dd3122 & key = 3617e340b77a76fa1232f4f6360157fd
+#EXTINF:-1 group-title="K+ Cab" tvg-id="ksport1hd" tvg-logo="https://i.imgur.com/rB46Oh1.png",K+Sport1 HD
+https://live-on-mobi.gviet.vn/manifest/k-plus-pm/master.mpd
 
-#EXTINF: -1 tvg-id = "klifehd" group-title = " K+ FPT " tvg-logo = "https://i.imgur.com/44ZFjVi.png", K + LIFE HD
-#KODIPROP: inputstream.adaptive.license_type = clearkey
-#KODIPROP: inputstream.adaptive.license_key = https: //code.television4you.xyz/key.php? Kid = 3c02226f8bec3f948d3e05836c410e7e & key = 4a93d65f5e7009bcaf573b187e68fd21
+#EXTINF:-1 group-title=" K+ Cab " tvg-id="ksport2hd" tvg-logo="https://i.imgur.com/PjwUMrT.png",K+Sport2 HD
+https://live-on-mobi.gviet.vn/manifest/k-plus-pc/master.mpd
 
-#EXTINF: -1 tvg-id = "ksport1hd" group-title = " K+ FPT " tvg-logo = "https://i.imgur.com/rB46Oh1.png", K + SPORT1 HD
-#KODIPROP: inputstream.adaptive.license_type = clearkey
-#KODIPROP: inputstream.adaptive.license_key = https: //code.television4you.xyz/key.php? Kid = 1fe5426280a93352b2d7f36ff3422772 & key = eb024058f8c54948a124d6239afd783e
+#EXTINF:-1 group-title=" K+ Cab " tvg-id="kcinehd" tvg-logo="https://i.imgur.com/sjtauW7.png",K+Cine HD
+https://live-on-mobi.gviet.vn/manifest/k-plus-1/master.mpd
 
-#EXTINF: -1 tvg-id = "ksport2hd" group-title = " K+ FPT " tvg-logo = "https://i.imgur.com/PjwUMrT.png", K + SPORT2 HD
-#KODIPROP: inputstream.adaptive.license_type = clearkey
-#KODIPROP: inputstream.adaptive.license_key = https: //code.television4you.xyz/key.php? Kid = f673aeef24dc3f4ba6437ef3b37cfa92 & key = d485c33b5af849911b3b5fc212188098
+#EXTINF:-1 group-title=" K+ Cab " tvg-id="klifehd" tvg-logo="https://i.imgur.com/44ZFjVi.png",K+Life HD
+https://live-on-mobi.gviet.vn/manifest/k-plus-ns/master.mpd
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1
