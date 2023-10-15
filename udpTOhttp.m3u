@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
+
 #EXTINF:-1 group-title="🔴| K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2009_to_2016.svg/2560px-Logo_K%2B_from_2009_to_2016.svg.png", K+Cine
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -58,6 +59,7 @@ http://s2129199.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv313&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QaXhw9lcVZV0JJ7bYkW8Qw", "kid": "2t/kWLARQyK1389+GUZgSw"}], "type": "temporary"}
 http://s2129197.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1
 http://192.168.1.100:1234/udp/225.1.2.249:30120
