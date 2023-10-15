@@ -1,340 +1,330 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
 #-------------------VTV-------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1
-udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1
+#udp://@225.1.2.249:30120
+http://192.168.1.100:1234/udp/225.1.2.249:30120
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3
 udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv4hd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4
+#EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Viet Nam" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ
 udp://@225.1.2.236:30120
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Viet Nam" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/ATJwYik.jpg",VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/ATJwYik.jpg",VTV Cần Thơ
 udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv7hd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7
 udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-id="vtv8hd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",VTV8
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9
 udp://@225.1.1.128:30120
 
 #-------------------Thiết yếu-------------------#
-#EXTINF:-1 tvg-id="antvhd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD
+#EXTINF:-1 tvg-id="antvhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD
 udp://@225.1.2.169:30120
-#EXTINF:-1 tvg-id="nhandan" group-title="Viet Nam" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV
+#EXTINF:-1 tvg-id="nhandan" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV
 udp://@225.1.1.91:30120
-#EXTINF:-1 tvg-id="quochoi" group-title="Viet Nam" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội HD
+#EXTINF:-1 tvg-id="quochoi" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội HD
 udp://@225.1.2.148:30120
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN
 udp://@225.1.2.217:30120
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS
 udp://@225.1.1.167:30120
 
 #-------------------SCTV-------------------#
-#EXTINF:-1 tvg-id="sctv6hd" group-title="Viet Nam",SCTV6
+#EXTINF:-1 tvg-id="sctv6hd" group-title="Kênh Quốc Gia",SCTV6
 udp://@225.1.1.188:30120
 
 #-------------------HTV/HTVC-------------------#
-#EXTINF:-1 tvg-id="htv1" group-title="Viet Nam" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1 tvg-id="htv2hd" group-title="Viet Nam" tvg-logo="https://imgur.com/aFUOlhc.jpg",HTV2 Vie Channel
+#EXTINF:-1 tvg-id="htv2hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/aFUOlhc.jpg",HTV2 Vie Channel
 udp://@225.1.1.193:30120
-#EXTINF:-1 tvg-id="htv3" group-title="Viet Nam" tvg-logo="https://imgur.com/fd4tJg2.jpg",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/fd4tJg2.jpg",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:-1 tvg-id="htv4" group-title="Viet Nam" tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
+#EXTINF:-1 tvg-id="htv4" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
 udp://@225.1.1.177:30120
-#EXTINF:-1 tvg-id="htv7hd" group-title="Viet Nam" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD
 udp://@225.1.1.192:30120
-#EXTINF:-1 tvg-id="htv9hd" group-title="Viet Nam" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD
 udp://@225.1.1.190:30120
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO
 udp://@225.1.1.165:30120
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạ
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạ
 udp://@225.1.1.185:30120
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống
 udp://@225.1.1.166:30120
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình
 udp://@225.1.1.170:30120
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim
 udp://@225.1.1.184:30120
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ
 udp://@225.1.1.171:30120
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="Viet Nam" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt
 udp://@225.1.1.186:30120
-#EXTINF:-1 tvg-id="htvcplushd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+
+#EXTINF:-1 tvg-id="htvcplushd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+
 udp://@225.1.1.181:30120
 
 #-------------------VTC/VOV-------------------#
-#EXTINF:-1 tvg-id="vovtvhd" group-title="Viet Nam" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
+#EXTINF:-1 tvg-id="vovtvhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 udp://@225.1.2.171:30120
-#EXTINF:-1 tvg-id="vtc1" group-title="Viet Nam" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD
+#EXTINF:-1 tvg-id="vtc1" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD
 udp://@225.1.2.254:30120
-#EXTINF:-1 tvg-id="vtc2" group-title="Viet Nam" tvg-logo="https://imgur.com/1FccD2h.png",VTC2
+#EXTINF:-1 tvg-id="vtc2" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/1FccD2h.png",VTC2
 udp://@225.1.2.202:30120
-#EXTINF:-1 tvg-id="vtc3hd" group-title="Viet Nam" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD
+#EXTINF:-1 tvg-id="vtc3hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD
 udp://@225.1.2.251:30120
-#EXTINF:-1 tvg-id="vtc4hd" group-title="Viet Nam" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD
+#EXTINF:-1 tvg-id="vtc4hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD
 udp://@225.1.2.200:30120
-#EXTINF:-1 tvg-id="vtc5hd" group-title="Viet Nam" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5
+#EXTINF:-1 tvg-id="vtc5hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5
 udp://@225.1.2.199:30120
-#EXTINF:-1 tvg-id="vtc6hd" group-title="Viet Nam" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6
+#EXTINF:-1 tvg-id="vtc6hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6
 udp://@225.1.2.198:30120
-#EXTINF:-1 tvg-id="vtc7hd" group-title="Viet Nam" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7
+#EXTINF:-1 tvg-id="vtc7hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7
 udp://@225.1.2.197:30120
-#EXTINF:-1 tvg-id="vtc8" group-title="Viet Nam" tvg-logo="https://imgur.com/cQ8Ygbk.png",VTC8
+#EXTINF:-1 tvg-id="vtc8" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/cQ8Ygbk.png",VTC8
 udp://@225.1.2.196:30120
-#EXTINF:-1 tvg-id="vtc9hd" group-title="Viet Nam" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD
+#EXTINF:-1 tvg-id="vtc9hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD
 udp://@225.1.2.195:30120
-#EXTINF:-1 tvg-id="vtc10" group-title="Viet Nam" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10 HD
+#EXTINF:-1 tvg-id="vtc10" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10 HD
 udp://@225.1.2.194:30120
-#EXTINF:-1 tvg-id="vtc11" group-title="Viet Nam" tvg-logo="https://imgur.com/RoTy0Ly.png",VTC11
+#EXTINF:-1 tvg-id="vtc11" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/RoTy0Ly.png",VTC11
 udp://@225.1.2.193:30120
-#EXTINF:-1 tvg-id="vtc12" group-title="Viet Nam" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12
+#EXTINF:-1 tvg-id="vtc12" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12
 udp://@225.1.2.51:30120
-#EXTINF:-1 tvg-id="vtc13hd" group-title="Viet Nam" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD
+#EXTINF:-1 tvg-id="vtc13hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD
 udp://@225.1.2.250:30120
-#EXTINF:-1 tvg-id="vtc14hd" group-title="Viet Nam" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD
+#EXTINF:-1 tvg-id="vtc14hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD
 udp://@225.1.2.88:30120
-#EXTINF:-1 tvg-id="vtc16" group-title="Viet Nam" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD
+#EXTINF:-1 tvg-id="vtc16" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD
 
 #-------------------Địa phương-------------------#
-#EXTINF:-1 tvg-id="dongnai1" group-title="Viet Nam",ĐNRTV1 HD _ TH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai1" group-title="Kênh Địa Phương",ĐNRTV1 HD _ TH Đồng Nai
 udp://@225.1.1.152:30120
-#EXTINF:-1 tvg-id="dongnai2"  group-title="Viet Nam",ĐNRTV2 HD _ TH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai2"  group-title="Kênh Địa Phương",ĐNRTV2 HD _ TH Đồng Nai
 udp://@225.1.1.151:30120
-#EXTINF:-1 tvg-id="vinhlong1hd"  group-title="Viet Nam",THVL1 HD _ TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong1hd"  group-title="Kênh Địa Phương",THVL1 HD _ TH Vĩnh Long
 udp://@225.1.1.155:30120
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Viet Nam",THVL2 HD _ TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh Địa Phương",THVL2 HD _ TH Vĩnh Long
 udp://@225.1.1.154:30120
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Viet Nam",THVL3 HD _ TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Địa Phương",THVL3 HD _ TH Vĩnh Long
 udp://@225.1.1.235:30120
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Viet Nam",THVL4 HD _ TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Địa Phương",THVL4 HD _ TH Vĩnh Long
 udp://@225.1.2.25:30120
-#EXTINF:-1 tvg-id="binhduong1" group-title="Viet Nam",BTV1 HD _ TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong1" group-title="Kênh Địa Phương",BTV1 HD _ TH Bình Dương
 udp://@225.1.1.150:30120
-#EXTINF:-1 tvg-id="binhduong2" group-title="Viet Nam",BTV2 HD _ TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong2" group-title="Kênh Địa Phương",BTV2 HD _ TH Bình Dương
 udp://@225.1.1.149:30120
-#EXTINF:-1 tvg-id="binhduong3" group-title="Viet Nam",BTV3 HD _ TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong3" group-title="Kênh Địa Phương",BTV3 HD _ TH Bình Dương
 udp://@225.1.2.22:30120
-#EXTINF:-1 tvg-id="binhduong4" group-title="Viet Nam",BTV4 HD _ TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong4" group-title="Kênh Địa Phương",BTV4 HD _ TH Bình Dương
 udp://@225.1.1.29:30120
-#EXTINF:-1 tvg-id="binhduong6" group-title="Viet Nam",BTV6 _ TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong6" group-title="Kênh Địa Phương",BTV6 _ TH Bình Dương
 udp://@225.1.1.223:30120
-#EXTINF:-1 tvg-id="anvienhd" group-title="Viet Nam",BTV9
+#EXTINF:-1 tvg-id="anvienhd" group-title="Kênh Địa Phương",BTV9
 udp://@225.1.2.189:30120
-#EXTINF:-1 tvg-id="tayninh" group-title="Viet Nam",TTV11 _ TH Tây Ninh
+#EXTINF:-1 tvg-id="tayninh" group-title="Kênh Địa Phương",TTV11 _ TH Tây Ninh
 udp://@225.1.1.130:30120
-#EXTINF:-1 tvg-id="baria" group-title="Viet Nam",BRT HD _ TH Bà Rịa Vũng Tàu
+#EXTINF:-1 tvg-id="baria" group-title="Kênh Địa Phương",BRT HD _ TH Bà Rịa Vũng Tàu
 udp://@225.1.2.175:30120
-#EXTINF:-1 tvg-id="hanoi1" group-title="Viet Nam",H1 HD _ TH Hà Nội
+#EXTINF:-1 tvg-id="hanoi1" group-title="Kênh Địa Phương",H1 HD _ TH Hà Nội
 udp://@225.1.2.186:30120
-#EXTINF:-1 tvg-id="haiphong" group-title="Viet Nam",THP HD _ TH TP. Hải Phòng
+#EXTINF:-1 tvg-id="haiphong" group-title="Kênh Địa Phương",THP HD _ TH TP. Hải Phòng
 udp://@225.1.1.44:30120
-#EXTINF:-1 tvg-id="haiphongplus" group-title="Viet Nam",THP+ HD _ TH TP. Hải Phòng
+#EXTINF:-1 tvg-id="haiphongplus" group-title="Kênh Địa Phương",THP+ HD _ TH TP. Hải Phòng
 udp://@225.1.1.113:30120
-#EXTINF:-1 tvg-id="laocai" group-title="Viet Nam",THLC _ TH Lào Cai
+#EXTINF:-1 tvg-id="laocai" group-title="Kênh Địa Phương",THLC _ TH Lào Cai
 udp://@225.1.1.119:30120
-#EXTINF:-1 tvg-id="yenbai" group-title="Viet Nam",YTV HD _ TH Yên Bái
+#EXTINF:-1 tvg-id="yenbai" group-title="Kênh Địa Phương",YTV HD _ TH Yên Bái
 udp://@225.1.1.39:30120
-#EXTINF:-1 tvg-id="dienbien" group-title="Viet Nam",ĐTV HD _ TH Điện Biên
+#EXTINF:-1 tvg-id="dienbien" group-title="Kênh Địa Phương",ĐTV HD _ TH Điện Biên
 udp://@225.1.1.74:30120
-#EXTINF:-1 tvg-id="hoabinh" group-title="Viet Nam",HBTV HD _ TH Hòa Bình
+#EXTINF:-1 tvg-id="hoabinh" group-title="Kênh Địa Phương",HBTV HD _ TH Hòa Bình
 udp://@225.1.2.168:30120
-#EXTINF:-1 tvg-id="laichau" group-title="Viet Nam",LTV HD _ TH Lai Châu
+#EXTINF:-1 tvg-id="laichau" group-title="Kênh Địa Phương",LTV HD _ TH Lai Châu
 udp://@225.1.2.36:30120
-#EXTINF:-1 tvg-id="hagiang" group-title="Viet Nam",HGTV _ TH Hà Giang
+#EXTINF:-1 tvg-id="hagiang" group-title="Kênh Địa Phương",HGTV _ TH Hà Giang
 udp://@225.1.1.62:30120
-#EXTINF:-1 tvg-id="tuyenquang" group-title="Viet Nam",TTV HD _ TH Tuyên Quang
+#EXTINF:-1 tvg-id="tuyenquang" group-title="Kênh Địa Phương",TTV HD _ TH Tuyên Quang
 udp://@225.1.2.188:30120
-#EXTINF:-1 tvg-id="thainguyen" group-title="Viet Nam",TN1 HD _ TH Thái Nguyên
+#EXTINF:-1 tvg-id="thainguyen" group-title="Kênh Địa Phương",TN1 HD _ TH Thái Nguyên
 udp://@225.1.2.179:30120
-#EXTINF:-1 tvg-id="phutho" group-title="Viet Nam",PTV HD _ TH Phú Thọ
+#EXTINF:-1 tvg-id="phutho" group-title="Kênh Địa Phương",PTV HD _ TH Phú Thọ
 udp://@225.1.2.165:30120
-#EXTINF:-1 tvg-id="bacgiang" group-title="Viet Nam",BGTV _ TH Bắc Giang
+#EXTINF:-1 tvg-id="bacgiang" group-title="Kênh Địa Phương",BGTV _ TH Bắc Giang
 udp://@225.1.1.164:30120
-#EXTINF:-1 tvg-id="langson" group-title="Viet Nam",LSTV HD _ TH Lạng Sơn
+#EXTINF:-1 tvg-id="langson" group-title="Kênh Địa Phương",LSTV HD _ TH Lạng Sơn
 udp://@225.1.1.160:30120
-#EXTINF:-1 tvg-id="caobang" group-title="Viet Nam",CRTV HD _ TH Cao Bằng
+#EXTINF:-1 tvg-id="caobang" group-title="Kênh Địa Phương",CRTV HD _ TH Cao Bằng
 udp://@225.1.1.102:30120
-#EXTINF:-1 tvg-id="baccan" group-title="Viet Nam",TBK HD _ TH Bắc Kạn
+#EXTINF:-1 tvg-id="baccan" group-title="Kênh Địa Phương",TBK HD _ TH Bắc Kạn
 udp://@225.1.1.126:30120
-#EXTINF:-1 tvg-id="quangninh1" group-title="Viet Nam",QTV1 HD _ TH Quảng Ninh
+#EXTINF:-1 tvg-id="quangninh1" group-title="Kênh Địa Phương",QTV1 HD _ TH Quảng Ninh
 udp://@225.1.2.181:30120
-#EXTINF:-1 tvg-id="bacninh" group-title="Viet Nam",BTV _ TH Bắc Ninh
+#EXTINF:-1 tvg-id="bacninh" group-title="Kênh Địa Phương",BTV _ TH Bắc Ninh
 udp://@225.1.1.40:30120
-#EXTINF:-1 tvg-id="ninhbinh" group-title="Viet Nam",NTV HD _ TH Ninh Bình
+#EXTINF:-1 tvg-id="ninhbinh" group-title="Kênh Địa Phương",NTV HD _ TH Ninh Bình
 udp://@225.1.2.185:30120
-#EXTINF:-1 tvg-id="thaibinh" group-title="Viet Nam",TBTV HD _ TH Thái Bình
+#EXTINF:-1 tvg-id="thaibinh" group-title="Kênh Địa Phương",TBTV HD _ TH Thái Bình
 udp://@225.1.1.99:30120
-#EXTINF:-1 tvg-id="vinhphuc" group-title="Viet Nam",VP HD _ TH Vĩnh Phúc
+#EXTINF:-1 tvg-id="vinhphuc" group-title="Kênh Địa Phương",VP HD _ TH Vĩnh Phúc
 udp://@225.1.2.99:30120
-#EXTINF:-1 tvg-id="nghean" group-title="Viet Nam",NTV HD _ TH Nghệ An
+#EXTINF:-1 tvg-id="nghean" group-title="Kênh Địa Phương",NTV HD _ TH Nghệ An
 udp://@225.1.2.183:30120
-#EXTINF:-1 tvg-id="hatinh" group-title="Viet Nam",HTTV HD _ TH Hà Tĩnh
+#EXTINF:-1 tvg-id="hatinh" group-title="Kênh Địa Phương",HTTV HD _ TH Hà Tĩnh
 udp://@225.1.1.75:30120
-#EXTINF:-1 tvg-id="quangtri" group-title="Viet Nam",QRTV HD _ TH Quảng Trị
+#EXTINF:-1 tvg-id="quangtri" group-title="Kênh Địa Phương",QRTV HD _ TH Quảng Trị
 udp://@225.1.1.117:30120
-#EXTINF:-1 tvg-id="danang1" group-title="Viet Nam",DaNangTV1 HD _ TH TP. Đà Nẵng
+#EXTINF:-1 tvg-id="danang1" group-title="Kênh Địa Phương",DaNangTV1 HD _ TH TP. Đà Nẵng
 udp://@225.1.1.147:30120
-#EXTINF:-1 tvg-id="danang2" group-title="Viet Nam",DaNangTV2 HD _ TH TP. Đà Nẵng
+#EXTINF:-1 tvg-id="danang2" group-title="Kênh Địa Phương",DaNangTV2 HD _ TH TP. Đà Nẵng
 udp://@225.1.1.146:30120
-#EXTINF:-1 tvg-id="quangnam" group-title="Viet Nam",QRT HD _ TH Quảng Nam
+#EXTINF:-1 tvg-id="quangnam" group-title="Kênh Địa Phương",QRT HD _ TH Quảng Nam
 udp://@225.1.2.50:30120
-#EXTINF:-1 tvg-id="quangngai" group-title="Viet Nam",PTQ _ TH Quảng Ngãi
+#EXTINF:-1 tvg-id="quangngai" group-title="Kênh Địa Phương",PTQ _ TH Quảng Ngãi
 udp://@225.1.2.174:30120
-#EXTINF:-1 tvg-id="binhdinh" group-title="Viet Nam",BTV _ TH Bình Định
+#EXTINF:-1 tvg-id="binhdinh" group-title="Kênh Địa Phương",BTV _ TH Bình Định
 udp://@225.1.1.145:30120
-#EXTINF:-1 tvg-id="phuyen" group-title="Viet Nam",PTP HD _ TH Phú Yên
+#EXTINF:-1 tvg-id="phuyen" group-title="Kênh Địa Phương",PTP HD _ TH Phú Yên
 udp://@225.1.2.58:30120
-#EXTINF:-1 tvg-id="khanhhoa" group-title="Viet Nam",KTV HD _ TH Khánh Hòa
+#EXTINF:-1 tvg-id="khanhhoa" group-title="Kênh Địa Phương",KTV HD _ TH Khánh Hòa
 udp://@225.1.1.133:30120
-#EXTINF:-1 tvg-id="binhthuan" group-title="Viet Nam",BTV HD _ TH Bình Thuận
+#EXTINF:-1 tvg-id="binhthuan" group-title="Kênh Địa Phương",BTV HD _ TH Bình Thuận
 udp://@225.1.1.124:30120
-#EXTINF:-1 tvg-id="kontum" group-title="Viet Nam",KRT _ TH Kon Tum
+#EXTINF:-1 tvg-id="kontum" group-title="Kênh Địa Phương",KRT _ TH Kon Tum
 udp://@225.1.1.36:30120
-#EXTINF:-1 tvg-id="gialai" group-title="Viet Nam",THGL HD _ TH Gia Lai
+#EXTINF:-1 tvg-id="gialai" group-title="Kênh Địa Phương",THGL HD _ TH Gia Lai
 udp://@225.1.2.176:30120
-#EXTINF:-1 tvg-id="daklak" group-title="Viet Nam",DRT HD _ TH Đắk Lắk
+#EXTINF:-1 tvg-id="daklak" group-title="Kênh Địa Phương",DRT HD _ TH Đắk Lắk
 udp://@225.1.1.64:30120
-#EXTINF:-1 tvg-id="lamdong" group-title="Viet Nam",LTV HD _ TH Lâm Đồng
+#EXTINF:-1 tvg-id="lamdong" group-title="Kênh Địa Phương",LTV HD _ TH Lâm Đồng
 udp://@225.1.2.177:30120
-#EXTINF:-1 tvg-id="dongthap" group-title="Viet Nam",THĐT1 HD _ TH Đồng Tháp
+#EXTINF:-1 tvg-id="dongthap" group-title="Kênh Địa Phương",THĐT1 HD _ TH Đồng Tháp
 udp://@225.1.1.163:30120
-#EXTINF:-1 tvg-id="dongthap2" group-title="Viet Nam",THĐT2 Miền Tây _ TH Đồng Tháp
+#EXTINF:-1 tvg-id="dongthap2" group-title="Kênh Địa Phương",THĐT2 Miền Tây _ TH Đồng Tháp
 udp://@225.1.1.210:30120
-#EXTINF:-1 tvg-id="tiengiang" group-title="Viet Nam",THTG HD _ TH Tiền Giang
+#EXTINF:-1 tvg-id="tiengiang" group-title="Kênh Địa Phương",THTG HD _ TH Tiền Giang
 udp://@225.1.2.170:30120
-#EXTINF:-1 tvg-id="bentre" group-title="Viet Nam",THBT HD _ TH Bến Tre
+#EXTINF:-1 tvg-id="bentre" group-title="Kênh Địa Phương",THBT HD _ TH Bến Tre
 udp://@225.1.1.156:30120
-#EXTINF:-1 tvg-id="travinh" group-title="Viet Nam",THTV HD _ TH Trà Vinh
+#EXTINF:-1 tvg-id="travinh" group-title="Kênh Địa Phương",THTV HD _ TH Trà Vinh
 udp://@225.1.2.172:30120
-#EXTINF:-1 tvg-id="haugiang" group-title="Viet Nam",HGTV HD _ TH Hậu Giang
+#EXTINF:-1 tvg-id="haugiang" group-title="Kênh Địa Phương",HGTV HD _ TH Hậu Giang
 udp://@225.1.1.157:30120
-#EXTINF:-1 tvg-id="kiengiang1" group-title="Viet Nam",KG _ TH Kiên Giang
+#EXTINF:-1 tvg-id="kiengiang1" group-title="Kênh Địa Phương",KG _ TH Kiên Giang
 udp://@225.1.2.182:30120
-#EXTINF:-1 tvg-id="baclieu" group-title="Viet Nam",BLTV HD _ TH Bạc Liêu
+#EXTINF:-1 tvg-id="baclieu" group-title="Kênh Địa Phương",BLTV HD _ TH Bạc Liêu
 udp://@225.1.1.61:30120
-#EXTINF:-1 tvg-id="camau" group-title="Viet Nam",CTV HD _ TH Cà Mau
+#EXTINF:-1 tvg-id="camau" group-title="Kênh Địa Phương",CTV HD _ TH Cà Mau
 udp://@225.1.1.104:30120
-#EXTINF:-1 tvg-id="cantho" group-title="Viet Nam",THTPCT HD _ TH TP. Cần Thơ
+#EXTINF:-1 tvg-id="cantho" group-title="Kênh Địa Phương",THTPCT HD _ TH TP. Cần Thơ
 udp://@225.1.1.132:30120
-#EXTINF:-1 tvg-id="sonla" group-title="Viet Nam",STV _ TH Sơn La
+#EXTINF:-1 tvg-id="sonla" group-title="Kênh Địa Phương",STV _ TH Sơn La
 udp://@225.1.1.98:30120
-#EXTINF:-1 tvg-id="quangninh3" group-title="Viet Nam",QTV3 _ TH Quảng Ninh
+#EXTINF:-1 tvg-id="quangninh3" group-title="Kênh Địa Phương",QTV3 _ TH Quảng Ninh
 udp://@225.1.2.180:30120
-#EXTINF:-1 tvg-id="hanam" group-title="Viet Nam",THHN _ TH Hà Nam
+#EXTINF:-1 tvg-id="hanam" group-title="Kênh Địa Phương",THHN _ TH Hà Nam
 udp://@225.1.1.63:30120
-#EXTINF:-1 tvg-id="haiduong" group-title="Viet Nam",THD _ TH Hải Dương
+#EXTINF:-1 tvg-id="haiduong" group-title="Kênh Địa Phương",THD _ TH Hải Dương
 udp://@225.1.1.158:30120
-#EXTINF:-1 tvg-id="hungyen" group-title="Viet Nam",HY _ TH Hưng Yên
+#EXTINF:-1 tvg-id="hungyen" group-title="Kênh Địa Phương",HY _ TH Hưng Yên
 udp://@225.1.1.118:30120
-#EXTINF:-1 tvg-id="namdinh" group-title="Viet Nam",NTV _ TH Nam Định
+#EXTINF:-1 tvg-id="namdinh" group-title="Kênh Địa Phương",NTV _ TH Nam Định
 udp://@225.1.1.120:30120
-#EXTINF:-1 tvg-id="thanhhoa" group-title="Viet Nam",TTV _ TH Thanh Hóa
+#EXTINF:-1 tvg-id="thanhhoa" group-title="Kênh Địa Phương",TTV _ TH Thanh Hóa
 udp://@225.1.2.184:30120
-#EXTINF:-1 tvg-id="quangbinh" group-title="Viet Nam",QBTV _ TH Quảng Bình
+#EXTINF:-1 tvg-id="quangbinh" group-title="Kênh Địa Phương",QBTV _ TH Quảng Bình
 udp://@225.1.2.164:30120
-#EXTINF:-1 tvg-id="hue" group-title="Viet Nam",TRT _ TH Thừa Thiên Huế
+#EXTINF:-1 tvg-id="hue" group-title="Kênh Địa Phương",TRT _ TH Thừa Thiên Huế
 udp://@225.1.1.161:30120
-#EXTINF:-1 tvg-id="ninhthuan" group-title="Viet Nam",NTV _ TH Ninh Thuận
+#EXTINF:-1 tvg-id="ninhthuan" group-title="Kênh Địa Phương",NTV _ TH Ninh Thuận
 udp://@225.1.2.178:30120
-#EXTINF:-1 tvg-id="binhphuoc1" group-title="Viet Nam",BPTV1 _ TH Bình Phước
+#EXTINF:-1 tvg-id="binhphuoc1" group-title="Kênh Địa Phương",BPTV1 _ TH Bình Phước
 udp://@225.1.2.23:30120
-#EXTINF:-1 tvg-id="hometvbptv2" group-title="Viet Nam",BPTV2 _ TH Bình Phước
+#EXTINF:-1 tvg-id="hometvbptv2" group-title="Kênh Địa Phương",BPTV2 _ TH Bình Phước
 udp://@225.1.2.38:30120
-#EXTINF:-1 tvg-id="longan" group-title="Viet Nam",LA34 _ TH Long An
+#EXTINF:-1 tvg-id="longan" group-title="Kênh Địa Phương",LA34 _ TH Long An
 udp://@225.1.1.162:30120
-#EXTINF:-1 tvg-id="angiang" group-title="Viet Nam",ATV _ TH An Giang
+#EXTINF:-1 tvg-id="angiang" group-title="Kênh Địa Phương",ATV _ TH An Giang
 udp://@225.1.2.173:30120
-#EXTINF:-1 tvg-id="soctrang" group-title="Viet Nam",STV1 _ TH Sóc Trăng
+#EXTINF:-1 tvg-id="soctrang" group-title="Kênh Địa Phương",STV1 _ TH Sóc Trăng
 udp://@225.1.1.159:30120
-#EXTINF:-1 tvg-id="bacgiang" group-title="Viet Nam",BGTV HD _ TH Bắc Giang
+#EXTINF:-1 tvg-id="bacgiang" group-title="Kênh Địa Phương",BGTV HD _ TH Bắc Giang
 udp://@225.1.4.173:30120
-#EXTINF:-1 tvg-id="baccan" group-title="Viet Nam",TBK HD _ TH Bắc Kạn
+#EXTINF:-1 tvg-id="baccan" group-title="Kênh Địa Phương",TBK HD _ TH Bắc Kạn
 udp://@225.1.4.174:30120
 
+
 #-------------------Quốc tế-------------------#
-#EXTINF:-1 tvg-id="hbohd" group-title="Quoc te",HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="Kênh Quốc Tế",HBO
 udp://@225.1.1.112:30120
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quoc te",CINEMAX
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Kênh Quốc Tế",CINEMAX
 udp://@225.1.2.86:30120
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quoc te",Cinema World
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Kênh Quốc Tế",Cinema World
 udp://@225.1.1.142:30120
-#EXTINF:-1 tvg-id="davinci" group-title="Quoc te",Da Vinci
+#EXTINF:-1 tvg-id="davinci" group-title="Kênh Quốc Tế",Da Vinci
 udp://@225.1.1.197:30120
-#EXTINF:-1 tvg-id="kix" group-title="Quoc te",KIX
+#EXTINF:-1 tvg-id="kix" group-title="Kênh Quốc Tế",KIX
 udp://@225.1.2.144:30120
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Quoc te",WBTV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Kênh Quốc Tế",WBTV
 udp://@225.1.1.139:30120
-#EXTINF:-1 tvg-id="axnhd" group-title="Quoc te",AXN
+#EXTINF:-1 tvg-id="axnhd" group-title="Kênh Quốc Tế",AXN
 udp://@225.1.2.225:30120
-#EXTINF:-1 tvg-id="tlchd" group-title="Quoc te",TLC
+#EXTINF:-1 tvg-id="tlchd" group-title="Kênh Quốc Tế",TLC
 udp://@225.1.1.236:30120
-#EXTINF:-1 tvg-id="animaxhd" group-title="Quoc te",Animax
+#EXTINF:-1 tvg-id="animaxhd" group-title="Kênh Quốc Tế",Animax
 udp://@225.1.1.135:30120
-#EXTINF:-1 tvg-id="" group-title="Quoc te",Baby TV
+#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế",Baby TV
 udp://@225.1.2.146:30120
-#EXTINF:-1 tvg-id="cbeebies" group-title="Quoc te",BBC CbeeBies
+#EXTINF:-1 tvg-id="cbeebies" group-title="Kênh Quốc Tế",BBC CbeeBies
 udp://@225.1.1.134:30120
-#EXTINF:-1 tvg-id="boomerang" group-title="Quoc te",BOOMERANG
+#EXTINF:-1 tvg-id="boomerang" group-title="Kênh Quốc Tế",BOOMERANG
 udp://@225.1.1.138:30120
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quoc te",CARTOON NETWORK
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh Quốc Tế",CARTOON NETWORK
 udp://@225.1.2.231:30120
-#EXTINF:-1 tvg-id="dreamworks" group-title="Quoc te",Dreamworks
+#EXTINF:-1 tvg-id="dreamworks" group-title="Kênh Quốc Tế",Dreamworks
 udp://@225.1.1.136:30120
-#EXTINF:-1 tvg-id="animalhd" group-title="Quoc te",Animal Planet
+#EXTINF:-1 tvg-id="animalhd" group-title="Kênh Quốc Tế",Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:-1 tvg-id="afnhd" group-title="Quoc te",Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" group-title="Kênh Quốc Tế",Asian Food Network
 udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="outdoorhd" group-title="Quoc te",Outdoor Channel
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Kênh Quốc Tế",Outdoor Channel
 udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quoc te",BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="Kênh Quốc Tế",BBC Earth
 udp://@225.1.2.24:30120
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quoc te",BBC Lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Kênh Quốc Tế",BBC Lifestyle
 udp://@225.1.2.52:30120
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quoc te",Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Kênh Quốc Tế",Discovery Asia
 udp://@225.1.2.223:30120
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quoc te",Discovery Channel
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Kênh Quốc Tế",Discovery Channel
 udp://@225.1.1.238:30120
-#EXTINF:-1 tvg-id="fashionhd" group-title="Quoc te",Fashion TV
+#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh Quốc Tế",Fashion TV
 udp://@225.1.2.227:30120
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quoc te",BBC WORLD NEWS
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Kênh Quốc Tế",BBC WORLD NEWS
 udp://@225.1.2.74:30120
-#EXTINF:-1 tvg-id="bloomberg" group-title="Quoc te",Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" group-title="Kênh Quốc Tế",Bloomberg
 udp://@225.1.2.91:30120
-#EXTINF:-1 tvg-id="abcaustralia" group-title="Quoc te",ABC AUSTRALIA
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Kênh Quốc Tế",ABC AUSTRALIA
 udp://@225.1.2.21:30120
-#EXTINF:-1 tvg-id="" group-title="Quoc te",CNA
+#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế",CNA
 udp://@225.1.1.202:30120
-#EXTINF:-1 tvg-id="cnn" group-title="Quoc te",CNN
+#EXTINF:-1 tvg-id="cnn" group-title="Kênh Quốc Tế",CNN
 udp://@225.1.1.242:30120
-#EXTINF:-1 tvg-id="france24eng" group-title="Quoc te",FRANCE 24 (English)
+#EXTINF:-1 tvg-id="france24eng" group-title="Kênh Quốc Tế",FRANCE 24 (English)
 udp://@225.1.2.211:30120
-#EXTINF:-1 tvg-id="nhkworld" group-title="Quoc te",NHK WORLD JAPAN
+#EXTINF:-1 tvg-id="nhkworld" group-title="Kênh Quốc Tế",NHK WORLD JAPAN
 udp://@225.1.1.47:30120
-#EXTINF:-1 tvg-id="tv5monde" group-title="Quoc te",TV5 MONDE ASIE
+#EXTINF:-1 tvg-id="tv5monde" group-title="Kênh Quốc Tế",TV5 MONDE ASIE
 udp://@225.1.1.200:30120
-#EXTINF:-1 tvg-id="dw" group-title="Quoc te",DW
+#EXTINF:-1 tvg-id="dw" group-title="Kênh Quốc Tế",DW
 udp://@225.1.1.46:30120
-#EXTINF:-1 tvg-id="" group-title="Quoc te",CNBC
+#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế",CNBC
 udp://@225.1.1.227:30120
-#EXTINF:-1 tvg-id="kbsworld" group-title="Quoc te",KBS WORLD
+#EXTINF:-1 tvg-id="kbsworld" group-title="Kênh Quốc Tế",KBS WORLD
 udp://@225.1.1.196:30120
-#EXTINF:-1 tvg-id="arirang" group-title="Quoc te",Arirang
+#EXTINF:-1 tvg-id="arirang" group-title="Kênh Quốc Tế",Arirang
 udp://@225.1.1.201:30120
-
-
-
-
-
-
-
-
-
-
-
-
