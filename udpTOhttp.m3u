@@ -2,7 +2,7 @@
 
 #-------------------K+ (DRM)-------------------#
 #EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/diHhSPR.jpg",K+ Cine (DRM)
-udp://@225.1.1.5:30120
+https://code.vthanhtivi.pw/getlink/mykplus/DSxquoWFb_gQDuT0E_5A/1697371250/klife/index.mdp%7Cuser-agent=%22ExoPlayerLib/2.14.1%22%20manifest-type=%22dash%22
 #EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/cjb5geD.jpg",K+ Life (DRM)
 udp://@225.1.1.6:30120
 #EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/mEhtHgM.jpg",K+ Sports 1 (DRM)
