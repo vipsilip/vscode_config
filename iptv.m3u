@@ -267,8 +267,6 @@ udp://@225.1.1.112:30120
 udp://@225.1.2.86:30120
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Kênh Quốc Tế",Cinema World
 udp://@225.1.1.142:30120
-#EXTINF:-1 tvg-id="davinci" group-title="Kênh Quốc Tế",Da Vinci
-udp://@225.1.1.197:30120
 #EXTINF:-1 tvg-id="kix" group-title="Kênh Quốc Tế",KIX
 udp://@225.1.2.144:30120
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Kênh Quốc Tế",WBTV
@@ -279,8 +277,6 @@ udp://@225.1.2.225:30120
 udp://@225.1.1.236:30120
 #EXTINF:-1 tvg-id="animaxhd" group-title="Kênh Quốc Tế",Animax
 udp://@225.1.1.135:30120
-#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế",Baby TV
-udp://@225.1.2.146:30120
 #EXTINF:-1 tvg-id="cbeebies" group-title="Kênh Quốc Tế",BBC CbeeBies
 udp://@225.1.1.134:30120
 #EXTINF:-1 tvg-id="boomerang" group-title="Kênh Quốc Tế",BOOMERANG
