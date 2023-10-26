@@ -1,33 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 #--*.*--K+--*.*--#
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/51/index.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/52/index.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 HD
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/45/index.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 HD
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/46/index.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS HD
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/6/index.m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD SV2
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/kpluscine/master.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD SV2
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/kpluslife/master.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 HD SV2
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/kplus1/master.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 HD SV2
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/kplus2/master.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS HD SV2
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/kids/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/47/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/48/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
-https://drm-livecdn.khanggtivi.xyz/kplus/a6f7eda8c2ae623e5656ae952b821686aa2700959707181ffbc88390f7f3c2bf4d3780/49/index.m3u8
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1
 udp://@225.1.2.249:30120
