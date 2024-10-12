@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
-#--*.*--K+--*.*--#
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1
@@ -23,7 +22,7 @@ udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9
 udp://@225.1.1.128:30120
 
-#-------------------Thiết yếu-------------------#
+#-------------------Local Television-------------------#
 #EXTINF:-1 tvg-id="antvhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD
 udp://@225.1.2.169:30120
 #EXTINF:-1 tvg-id="nhandan" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV
@@ -130,16 +129,9 @@ udp://@225.1.2.250:30120
 udp://@225.1.2.88:30120
 #EXTINF:-1 tvg-id="vtc16" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD
 
-
-#-------------------Quốc tế-------------------#
+#-------------------International Television-------------------#
 #EXTINF:-1 tvg-id="hbohd" group-title="Kênh Quốc Tế",HBO
 udp://@225.1.1.112:30120
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Kênh Quốc Tế",CINEMAX
-udp://@225.1.2.86:30120
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Kênh Quốc Tế",Cinema World
-udp://@225.1.1.142:30120
-#EXTINF:-1 tvg-id="kix" group-title="Kênh Quốc Tế",KIX
-udp://@225.1.2.144:30120
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Kênh Quốc Tế",WBTV
 udp://@225.1.1.139:30120
 #EXTINF:-1 tvg-id="axnhd" group-title="Kênh Quốc Tế",AXN
