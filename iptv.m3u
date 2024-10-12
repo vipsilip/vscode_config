@@ -4,7 +4,6 @@
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1
 udp://@225.1.2.249:30120
-http://192.168.1.100:1234/udp/225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2
 udp://@225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3
@@ -35,8 +34,36 @@ udp://@225.1.2.148:30120
 udp://@225.1.2.217:30120
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS
 udp://@225.1.1.167:30120
-
-#-------------------SCTV-------------------#
+#EXTINF:-1 tvg-id="dongnai1" group-title="Kênh Địa Phương",ĐNRTV1 HD _ TH Đồng Nai
+udp://@225.1.1.152:30120
+#EXTINF:-1 tvg-id="dongnai2"  group-title="Kênh Địa Phương",ĐNRTV2 HD _ TH Đồng Nai
+udp://@225.1.1.151:30120
+#EXTINF:-1 tvg-id="vinhlong1hd"  group-title="Kênh Địa Phương",THVL1 HD _ TH Vĩnh Long
+udp://@225.1.1.155:30120
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh Địa Phương",THVL2 HD _ TH Vĩnh Long
+udp://@225.1.1.154:30120
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Địa Phương",THVL3 HD _ TH Vĩnh Long
+udp://@225.1.1.235:30120
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Địa Phương",THVL4 HD _ TH Vĩnh Long
+udp://@225.1.2.25:30120
+#EXTINF:-1 tvg-id="binhduong1" group-title="Kênh Địa Phương",BTV1 HD _ TH Bình Dương
+udp://@225.1.1.150:30120
+#EXTINF:-1 tvg-id="binhduong2" group-title="Kênh Địa Phương",BTV2 HD _ TH Bình Dương
+udp://@225.1.1.149:30120
+#EXTINF:-1 tvg-id="binhduong3" group-title="Kênh Địa Phương",BTV3 HD _ TH Bình Dương
+udp://@225.1.2.22:30120
+#EXTINF:-1 tvg-id="binhduong4" group-title="Kênh Địa Phương",BTV4 HD _ TH Bình Dương
+udp://@225.1.1.29:30120
+#EXTINF:-1 tvg-id="binhduong6" group-title="Kênh Địa Phương",BTV6 _ TH Bình Dương
+udp://@225.1.1.223:30120
+#EXTINF:-1 tvg-id="anvienhd" group-title="Kênh Địa Phương",BTV9
+udp://@225.1.2.189:30120
+#EXTINF:-1 tvg-id="hanoi1" group-title="Kênh Địa Phương",H1 HD _ TH Hà Nội
+udp://@225.1.2.186:30120
+#EXTINF:-1 tvg-id="haiphong" group-title="Kênh Địa Phương",THP HD _ TH TP. Hải Phòng
+udp://@225.1.1.44:30120
+#EXTINF:-1 tvg-id="haiphongplus" group-title="Kênh Địa Phương",THP+ HD _ TH TP. Hải Phòng
+udp://@225.1.1.113:30120
 #EXTINF:-1 tvg-id="sctv6hd" group-title="Kênh Quốc Gia",SCTV6
 udp://@225.1.1.188:30120
 
@@ -103,41 +130,79 @@ udp://@225.1.2.250:30120
 udp://@225.1.2.88:30120
 #EXTINF:-1 tvg-id="vtc16" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD
 
+
+#-------------------Quốc tế-------------------#
+#EXTINF:-1 tvg-id="hbohd" group-title="Kênh Quốc Tế",HBO
+udp://@225.1.1.112:30120
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Kênh Quốc Tế",CINEMAX
+udp://@225.1.2.86:30120
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Kênh Quốc Tế",Cinema World
+udp://@225.1.1.142:30120
+#EXTINF:-1 tvg-id="kix" group-title="Kênh Quốc Tế",KIX
+udp://@225.1.2.144:30120
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Kênh Quốc Tế",WBTV
+udp://@225.1.1.139:30120
+#EXTINF:-1 tvg-id="axnhd" group-title="Kênh Quốc Tế",AXN
+udp://@225.1.2.225:30120
+#EXTINF:-1 tvg-id="tlchd" group-title="Kênh Quốc Tế",TLC
+udp://@225.1.1.236:30120
+#EXTINF:-1 tvg-id="animaxhd" group-title="Kênh Quốc Tế",Animax
+udp://@225.1.1.135:30120
+#EXTINF:-1 tvg-id="cbeebies" group-title="Kênh Quốc Tế",BBC CbeeBies
+udp://@225.1.1.134:30120
+#EXTINF:-1 tvg-id="boomerang" group-title="Kênh Quốc Tế",BOOMERANG
+udp://@225.1.1.138:30120
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh Quốc Tế",CARTOON NETWORK
+udp://@225.1.2.231:30120
+#EXTINF:-1 tvg-id="dreamworks" group-title="Kênh Quốc Tế",Dreamworks
+udp://@225.1.1.136:30120
+#EXTINF:-1 tvg-id="animalhd" group-title="Kênh Quốc Tế",Animal Planet
+udp://@225.1.1.231:30120
+#EXTINF:-1 tvg-id="afnhd" group-title="Kênh Quốc Tế",Asian Food Network
+udp://@225.1.1.198:30120
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Kênh Quốc Tế",Outdoor Channel
+udp://@225.1.2.215:30120
+#EXTINF:-1 tvg-id="bbcearth" group-title="Kênh Quốc Tế",BBC Earth
+udp://@225.1.2.24:30120
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Kênh Quốc Tế",BBC Lifestyle
+udp://@225.1.2.52:30120
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Kênh Quốc Tế",Discovery Asia
+udp://@225.1.2.223:30120
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Kênh Quốc Tế",Discovery Channel
+udp://@225.1.1.238:30120
+#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh Quốc Tế",Fashion TV
+udp://@225.1.2.227:30120
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Kênh Quốc Tế",BBC WORLD NEWS
+udp://@225.1.2.74:30120
+#EXTINF:-1 tvg-id="bloomberg" group-title="Kênh Quốc Tế",Bloomberg
+udp://@225.1.2.91:30120
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Kênh Quốc Tế",ABC AUSTRALIA
+udp://@225.1.2.21:30120
+#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế",CNA
+udp://@225.1.1.202:30120
+#EXTINF:-1 tvg-id="cnn" group-title="Kênh Quốc Tế",CNN
+udp://@225.1.1.242:30120
+#EXTINF:-1 tvg-id="france24eng" group-title="Kênh Quốc Tế",FRANCE 24 (English)
+udp://@225.1.2.211:30120
+#EXTINF:-1 tvg-id="nhkworld" group-title="Kênh Quốc Tế",NHK WORLD JAPAN
+udp://@225.1.1.47:30120
+#EXTINF:-1 tvg-id="tv5monde" group-title="Kênh Quốc Tế",TV5 MONDE ASIE
+udp://@225.1.1.200:30120
+#EXTINF:-1 tvg-id="dw" group-title="Kênh Quốc Tế",DW
+udp://@225.1.1.46:30120
+#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế",CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 tvg-id="kbsworld" group-title="Kênh Quốc Tế",KBS WORLD
+udp://@225.1.1.196:30120
+#EXTINF:-1 tvg-id="arirang" group-title="Kênh Quốc Tế",Arirang
+udp://@225.1.1.201:30120
+
+
 #-------------------Địa phương-------------------#
-#EXTINF:-1 tvg-id="dongnai1" group-title="Kênh Địa Phương",ĐNRTV1 HD _ TH Đồng Nai
-udp://@225.1.1.152:30120
-#EXTINF:-1 tvg-id="dongnai2"  group-title="Kênh Địa Phương",ĐNRTV2 HD _ TH Đồng Nai
-udp://@225.1.1.151:30120
-#EXTINF:-1 tvg-id="vinhlong1hd"  group-title="Kênh Địa Phương",THVL1 HD _ TH Vĩnh Long
-udp://@225.1.1.155:30120
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh Địa Phương",THVL2 HD _ TH Vĩnh Long
-udp://@225.1.1.154:30120
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Địa Phương",THVL3 HD _ TH Vĩnh Long
-udp://@225.1.1.235:30120
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Địa Phương",THVL4 HD _ TH Vĩnh Long
-udp://@225.1.2.25:30120
-#EXTINF:-1 tvg-id="binhduong1" group-title="Kênh Địa Phương",BTV1 HD _ TH Bình Dương
-udp://@225.1.1.150:30120
-#EXTINF:-1 tvg-id="binhduong2" group-title="Kênh Địa Phương",BTV2 HD _ TH Bình Dương
-udp://@225.1.1.149:30120
-#EXTINF:-1 tvg-id="binhduong3" group-title="Kênh Địa Phương",BTV3 HD _ TH Bình Dương
-udp://@225.1.2.22:30120
-#EXTINF:-1 tvg-id="binhduong4" group-title="Kênh Địa Phương",BTV4 HD _ TH Bình Dương
-udp://@225.1.1.29:30120
-#EXTINF:-1 tvg-id="binhduong6" group-title="Kênh Địa Phương",BTV6 _ TH Bình Dương
-udp://@225.1.1.223:30120
-#EXTINF:-1 tvg-id="anvienhd" group-title="Kênh Địa Phương",BTV9
-udp://@225.1.2.189:30120
 #EXTINF:-1 tvg-id="tayninh" group-title="Kênh Địa Phương",TTV11 _ TH Tây Ninh
 udp://@225.1.1.130:30120
 #EXTINF:-1 tvg-id="baria" group-title="Kênh Địa Phương",BRT HD _ TH Bà Rịa Vũng Tàu
 udp://@225.1.2.175:30120
-#EXTINF:-1 tvg-id="hanoi1" group-title="Kênh Địa Phương",H1 HD _ TH Hà Nội
-udp://@225.1.2.186:30120
-#EXTINF:-1 tvg-id="haiphong" group-title="Kênh Địa Phương",THP HD _ TH TP. Hải Phòng
-udp://@225.1.1.44:30120
-#EXTINF:-1 tvg-id="haiphongplus" group-title="Kênh Địa Phương",THP+ HD _ TH TP. Hải Phòng
-udp://@225.1.1.113:30120
 #EXTINF:-1 tvg-id="laocai" group-title="Kênh Địa Phương",THLC _ TH Lào Cai
 udp://@225.1.1.119:30120
 #EXTINF:-1 tvg-id="yenbai" group-title="Kênh Địa Phương",YTV HD _ TH Yên Bái
@@ -260,68 +325,4 @@ udp://@225.1.4.173:30120
 udp://@225.1.4.174:30120
 
 
-#-------------------Quốc tế-------------------#
-#EXTINF:-1 tvg-id="hbohd" group-title="Kênh Quốc Tế",HBO
-udp://@225.1.1.112:30120
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Kênh Quốc Tế",CINEMAX
-udp://@225.1.2.86:30120
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Kênh Quốc Tế",Cinema World
-udp://@225.1.1.142:30120
-#EXTINF:-1 tvg-id="kix" group-title="Kênh Quốc Tế",KIX
-udp://@225.1.2.144:30120
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Kênh Quốc Tế",WBTV
-udp://@225.1.1.139:30120
-#EXTINF:-1 tvg-id="axnhd" group-title="Kênh Quốc Tế",AXN
-udp://@225.1.2.225:30120
-#EXTINF:-1 tvg-id="tlchd" group-title="Kênh Quốc Tế",TLC
-udp://@225.1.1.236:30120
-#EXTINF:-1 tvg-id="animaxhd" group-title="Kênh Quốc Tế",Animax
-udp://@225.1.1.135:30120
-#EXTINF:-1 tvg-id="cbeebies" group-title="Kênh Quốc Tế",BBC CbeeBies
-udp://@225.1.1.134:30120
-#EXTINF:-1 tvg-id="boomerang" group-title="Kênh Quốc Tế",BOOMERANG
-udp://@225.1.1.138:30120
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh Quốc Tế",CARTOON NETWORK
-udp://@225.1.2.231:30120
-#EXTINF:-1 tvg-id="dreamworks" group-title="Kênh Quốc Tế",Dreamworks
-udp://@225.1.1.136:30120
-#EXTINF:-1 tvg-id="animalhd" group-title="Kênh Quốc Tế",Animal Planet
-udp://@225.1.1.231:30120
-#EXTINF:-1 tvg-id="afnhd" group-title="Kênh Quốc Tế",Asian Food Network
-udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="outdoorhd" group-title="Kênh Quốc Tế",Outdoor Channel
-udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-id="bbcearth" group-title="Kênh Quốc Tế",BBC Earth
-udp://@225.1.2.24:30120
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Kênh Quốc Tế",BBC Lifestyle
-udp://@225.1.2.52:30120
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Kênh Quốc Tế",Discovery Asia
-udp://@225.1.2.223:30120
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Kênh Quốc Tế",Discovery Channel
-udp://@225.1.1.238:30120
-#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh Quốc Tế",Fashion TV
-udp://@225.1.2.227:30120
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Kênh Quốc Tế",BBC WORLD NEWS
-udp://@225.1.2.74:30120
-#EXTINF:-1 tvg-id="bloomberg" group-title="Kênh Quốc Tế",Bloomberg
-udp://@225.1.2.91:30120
-#EXTINF:-1 tvg-id="abcaustralia" group-title="Kênh Quốc Tế",ABC AUSTRALIA
-udp://@225.1.2.21:30120
-#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế",CNA
-udp://@225.1.1.202:30120
-#EXTINF:-1 tvg-id="cnn" group-title="Kênh Quốc Tế",CNN
-udp://@225.1.1.242:30120
-#EXTINF:-1 tvg-id="france24eng" group-title="Kênh Quốc Tế",FRANCE 24 (English)
-udp://@225.1.2.211:30120
-#EXTINF:-1 tvg-id="nhkworld" group-title="Kênh Quốc Tế",NHK WORLD JAPAN
-udp://@225.1.1.47:30120
-#EXTINF:-1 tvg-id="tv5monde" group-title="Kênh Quốc Tế",TV5 MONDE ASIE
-udp://@225.1.1.200:30120
-#EXTINF:-1 tvg-id="dw" group-title="Kênh Quốc Tế",DW
-udp://@225.1.1.46:30120
-#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế",CNBC
-udp://@225.1.1.227:30120
-#EXTINF:-1 tvg-id="kbsworld" group-title="Kênh Quốc Tế",KBS WORLD
-udp://@225.1.1.196:30120
-#EXTINF:-1 tvg-id="arirang" group-title="Kênh Quốc Tế",Arirang
-udp://@225.1.1.201:30120
+
