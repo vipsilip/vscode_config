@@ -25,10 +25,6 @@ udp://@225.1.1.128:30120
 #-------------------Local Television-------------------#
 #EXTINF:-1 tvg-id="antvhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD
 udp://@225.1.2.169:30120
-#EXTINF:-1 tvg-id="nhandan" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV
-udp://@225.1.1.91:30120
-#EXTINF:-1 tvg-id="quochoi" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội HD
-udp://@225.1.2.148:30120
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN
 udp://@225.1.2.217:30120
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS
@@ -95,39 +91,6 @@ udp://@225.1.1.171:30120
 udp://@225.1.1.186:30120
 #EXTINF:-1 tvg-id="htvcplushd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+
 udp://@225.1.1.181:30120
-
-#-------------------VTC/VOV-------------------#
-#EXTINF:-1 tvg-id="vovtvhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
-udp://@225.1.2.171:30120
-#EXTINF:-1 tvg-id="vtc1" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD
-udp://@225.1.2.254:30120
-#EXTINF:-1 tvg-id="vtc2" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/1FccD2h.png",VTC2
-udp://@225.1.2.202:30120
-#EXTINF:-1 tvg-id="vtc3hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD
-udp://@225.1.2.251:30120
-#EXTINF:-1 tvg-id="vtc4hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD
-udp://@225.1.2.200:30120
-#EXTINF:-1 tvg-id="vtc5hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5
-udp://@225.1.2.199:30120
-#EXTINF:-1 tvg-id="vtc6hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6
-udp://@225.1.2.198:30120
-#EXTINF:-1 tvg-id="vtc7hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7
-udp://@225.1.2.197:30120
-#EXTINF:-1 tvg-id="vtc8" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/cQ8Ygbk.png",VTC8
-udp://@225.1.2.196:30120
-#EXTINF:-1 tvg-id="vtc9hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD
-udp://@225.1.2.195:30120
-#EXTINF:-1 tvg-id="vtc10" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10 HD
-udp://@225.1.2.194:30120
-#EXTINF:-1 tvg-id="vtc11" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/RoTy0Ly.png",VTC11
-udp://@225.1.2.193:30120
-#EXTINF:-1 tvg-id="vtc12" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12
-udp://@225.1.2.51:30120
-#EXTINF:-1 tvg-id="vtc13hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD
-udp://@225.1.2.250:30120
-#EXTINF:-1 tvg-id="vtc14hd" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD
-udp://@225.1.2.88:30120
-#EXTINF:-1 tvg-id="vtc16" group-title="Kênh Quốc Gia" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD
 
 #-------------------International Television-------------------#
 #EXTINF:-1 tvg-id="hbohd" group-title="Kênh Quốc Tế",HBO
