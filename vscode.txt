@@ -9,6 +9,9 @@ npm uninstall -g yarn
 chỉnh lại đường dẫn path trong windows(NẾU BỊ LỖI):
 (LỖI npm ERR! code SELF_SIGNED_CERT_IN_CHAIN) => npm set strict-ssl false(npm) | yarn config set "strict-ssl" false(yarn)
 vào my computer -> system properties -> environment variables -> bấm vào path trong system variables -> new -> thêm đường dẫn sau (C:\Users\hailnt\AppData\Roaming\npm\node_modules\yarn\bin)
+CÀI NODEJS VERSION HIGH ON WIN7(NODEJS 14.7.6)
+vào my computer -> system properties -> environment variables -> bấm vào path trong system variables -> new -> Variable name: NODE_SKIP_PLATFORM_CHECK | Variable value: 1 => DONE.
+Tải xuống Windows Binary (.zip) (32/64 bit) => giải nén => copy all vào đường dẫn C:\Program Files\nodejs
 ENABLE SCRIPT:
 Get-ExecutionPolicy -List
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
