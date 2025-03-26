@@ -13,7 +13,7 @@ ENABLE SCRIPT:
 Get-ExecutionPolicy -List
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 cài JEST:
-yarn add - -dev jest
+yarn add --dev jest
 
 SỬ DỤNG BABEL(convert code lên ES6 để jest hiểu)
 copy code sau vào terminal:
