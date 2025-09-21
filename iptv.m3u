@@ -1,5 +1,15 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
 
+
+#-------------------K+-------------------#
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/zHxMC2SN/kcinehd.jpg",K+CINE
+https://hls.mskycdn.online/tv/kcinehd/index.m3u8
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://i.ibb.co/MD40xQ38/kaction.jpg",K+ACTION
+https://hls.mskycdn.online/tv/kaction/index.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/MyQSDnp7/ksport1hd.jpg",K+SPORT1
+https://hls.mskycdn.online/tv/ksport1hd/index.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/8g9x9DcS/ksport2hd.jpg",K+SPORT2
+https://hls.mskycdn.online/tv/ksport2hd/index.m3u8
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/4nLrhB14/vtv1hd.jpg",VTV1
 udp://@225.1.2.249:30120
