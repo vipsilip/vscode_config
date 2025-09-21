@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
 
 #-------------------VTV-------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh Quốc Gia" tvg-logo="https://ibb.co/8LwZ1FYP",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/4nLrhB14/vtv1hd.jpg",VTV1
 udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh Quốc Gia" tvg-logo="https://ibb.co/vxJYMjSH",VTV2
 udp://@225.1.2.13:30120
