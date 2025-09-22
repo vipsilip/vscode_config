@@ -11,59 +11,59 @@ https://hls.mskycdn.online/tv/ksport1hd/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/N2G6smqH/ksport2.jpg",K+SPORT2
 https://hls.mskycdn.online/tv/ksport2hd/index.m3u8
 #-------------------VTV-------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="",VTV1
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="",VTV2
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="",VTV3
 udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV4
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="",VTV4
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kênh Quốc Gia" tvg-logo="h",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="h",VTV5 Tây Nam Bộ
 udp://@225.1.2.236:30120
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kênh Quốc Gia" tvg-logo="",VTV5
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="",VTV5
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="",VTV Cần Thơ
 udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="",VTV7
 udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-id="vtv8hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="",VTV8
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV tvg-logo="",VTV9
 udp://@225.1.1.128:30120
 #-------------------HTV/HTVC-------------------#
-#EXTINF:-1 tvg-id="htv1" group-title="Kênh Quốc Gia" tvg-logo="",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="",HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1 tvg-id="htv2hd" group-title="Kênh Quốc Gia" tvg-logo="",HTV2 Vie Channel
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="",HTV2 Vie Channel
 udp://@225.1.1.193:30120
-#EXTINF:-1 tvg-id="htv3" group-title="Kênh Quốc Gia" tvg-logo="",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:-1 tvg-id="htv4" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/TxLPBrHF/htvkey.png",HTV Keys
+#EXTINF:-1 tvg-id="htv4" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/TxLPBrHF/htvkey.png",HTV Keys
 udp://@225.1.1.177:30120
-#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh Quốc Gia" tvg-logo="",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="",HTV7 HD
 udp://@225.1.1.192:30120
-#EXTINF:-1 tvg-id="htv9hd" group-title="Kênh Quốc Gia" tvg-logo="",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="",HTV9 HD
 udp://@225.1.1.190:30120
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/7tGMHS8Y/htvcthethao.png",HTV THỂ THAO
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/7tGMHS8Y/htvcthethao.png",HTV THỂ THAO
 udp://@225.1.1.165:30120
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/QvsNVx2t/canhac.png",HTVC Ca Nhạc
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/QvsNVx2t/canhac.png",HTVC Ca Nhạc
 udp://@225.1.1.185:30120
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/CsM4xmX6/dulich-cuocsong.png",HTVC Du Lịch và Cuộc Sống
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/CsM4xmX6/dulich-cuocsong.png",HTVC Du Lịch và Cuộc Sống
 udp://@225.1.1.166:30120
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/pjdbkN99/giadinh.png",HTVC Gia Đình
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/pjdbkN99/giadinh.png",HTVC Gia Đình
 udp://@225.1.1.170:30120
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/wFNLwdW2/phim.png",HTVC Phim
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/wFNLwdW2/phim.png",HTVC Phim
 udp://@225.1.1.184:30120
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/tpThWmdp/phunu.png",HTVC Phụ Nữ
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/tpThWmdp/phunu.png",HTVC Phụ Nữ
 udp://@225.1.1.171:30120
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/yn5ZZSVT/thuanviet.jpg",HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/yn5ZZSVT/thuanviet.jpg",HTVC Thuần Việt
 udp://@225.1.1.186:30120
-#EXTINF:-1 tvg-id="htvcplushd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/TM5KzWWf/htvcplus.png",HTVC+
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/TM5KzWWf/htvcplus.png",HTVC+
 udp://@225.1.1.181:30120
 #-------------------Local Television-------------------#
-#EXTINF:-1 tvg-id="antvhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/sdQNLKCg/antv.png",ANTV
+#EXTINF:-1 tvg-id="antvhd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/sdQNLKCg/antv.png",ANTV
 udp://@225.1.2.169:30120
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/b5xgHxrZ/qpvn.png",QPVN
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/b5xgHxrZ/qpvn.png",QPVN
 udp://@225.1.2.217:30120
 #EXTINF:-1 tvg-id="dongnai1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/m51rv68d/dnrtv1.png",ĐNRTV1 HD _ TH Đồng Nai
 udp://@225.1.1.152:30120
