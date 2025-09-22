@@ -11,38 +11,38 @@ https://hls.mskycdn.online/tv/ksport1hd/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/N2G6smqH/ksport2.jpg",K+SPORT2
 https://hls.mskycdn.online/tv/ksport2hd/index.m3u8
 #-------------------VTV-------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/4nLrhB14/vtv1hd.jpg",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV1
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/tMbX1J94/vtv2hd.jpg",VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV2
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/V0t3dtY3/vtv3hd.jpg",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV3
 udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/9kdKYMT3/vtv4hd.jpg",VTV4
+#EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV4
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/5gbSgtxw/vtv5hdtnb.jpg",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kênh Quốc Gia" tvg-logo="h",VTV5 Tây Nam Bộ
 udp://@225.1.2.236:30120
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/0p08j57v/vtv5hd.jpg",VTV5
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kênh Quốc Gia" tvg-logo="",VTV5
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/B2XKZQDM/vtvcantho.jpg",VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV Cần Thơ
 udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/JRSPnCKZ/vtv7hd.jpg",VTV7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV7
 udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-id="vtv8hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/nNZwtytR/vtv8hd.jpg",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV8
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/5WcMkyMS/vtv9hd.jpg",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh Quốc Gia" tvg-logo="",VTV9
 udp://@225.1.1.128:30120
 #-------------------HTV/HTVC-------------------#
-#EXTINF:-1 tvg-id="htv1" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/5xW57x8G/htv1.jpg",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="Kênh Quốc Gia" tvg-logo="",HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1 tvg-id="htv2hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/PvK81SyN/htv2hd.jpg",HTV2 Vie Channel
+#EXTINF:-1 tvg-id="htv2hd" group-title="Kênh Quốc Gia" tvg-logo="",HTV2 Vie Channel
 udp://@225.1.1.193:30120
-#EXTINF:-1 tvg-id="htv3" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/MDB5K42D/htv3.png",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="Kênh Quốc Gia" tvg-logo="",HTV3
 udp://@225.1.1.178:30120
 #EXTINF:-1 tvg-id="htv4" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/Rkvmx3YR/Logo-HTV-Key.png",HTV Keys
 udp://@225.1.1.177:30120
-#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/tTcMwphp/htv7hd.jpg",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh Quốc Gia" tvg-logo="",HTV7 HD
 udp://@225.1.1.192:30120
-#EXTINF:-1 tvg-id="htv9hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/mV8tv3FJ/htv9hd.jpg",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="Kênh Quốc Gia" tvg-logo="",HTV9 HD
 udp://@225.1.1.190:30120
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/7tGMHS8Y/htvcthethao.png",HTV THỂ THAO
 udp://@225.1.1.165:30120
@@ -81,7 +81,7 @@ udp://@225.1.2.25:30120
 udp://@225.1.1.150:30120
 #EXTINF:-1 tvg-id="binhduong2" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/932ntY52/btv2.png",BTV2 HD _ TH Bình Dương
 udp://@225.1.1.149:30120
-#EXTINF:-1 tvg-id="anvienhd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/Qv94zFCv/btv9.jpg",BTV9
+#EXTINF:-1 tvg-id="anvienhd" group-title="Kênh Địa Phương" tvg-logo="",BTV9
 udp://@225.1.2.189:30120
 #EXTINF:-1 tvg-id="hanoi1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/XxgG8zb7/hn1.png",H1 HD _ TH Hà Nội
 udp://@225.1.2.186:30120
@@ -92,63 +92,63 @@ udp://@225.1.1.113:30120
 #EXTINF:-1 tvg-id="sctv6hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/Gf2DHDq6/sctv6.png",SCTV6
 udp://@225.1.1.188:30120
 #-------------------International Television-------------------#
-#EXTINF:-1 tvg-id="hbohd" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/99jMm7fn/hbohd.png",HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="Kênh Quốc Tế" tvg-logo="",HBO
 udp://@225.1.1.112:30120
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/99Hmj8n0/warnertvhd.jpg",WBTV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Kênh Quốc Tế" tvg-logo="",WBTV
 udp://@225.1.1.139:30120
-#EXTINF:-1 tvg-id="axnhd" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/60qhmnYq/axn.jpg",AXN
+#EXTINF:-1 tvg-id="axnhd" group-title="Kênh Quốc Tế" tvg-logo="",AXN
 udp://@225.1.2.225:30120
-#EXTINF:-1 tvg-id="tlchd" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/n8R8wxnw/tlc.jpg",TLC
+#EXTINF:-1 tvg-id="tlchd" group-title="Kênh Quốc Tế" tvg-logo="",TLC
 udp://@225.1.1.236:30120
 #EXTINF:-1 tvg-id="animaxhd" group-title="Kênh Quốc Tế" tvg-logo="",Animax
 #udp://@225.1.1.135:30120
-#EXTINF:-1 tvg-id="cbeebies" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/cWnk2VS/cbeebies.jpg",BBC CbeeBies
+#EXTINF:-1 tvg-id="cbeebies" group-title="Kênh Quốc Tế" tvg-logo="",BBC CbeeBies
 udp://@225.1.1.134:30120
 #EXTINF:-1 tvg-id="boomerang" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/n8Z489Wz/cartoonito.png",CARTOONITO
 udp://@225.1.1.138:30120
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/bMy9sG2B/cartoonhd.jpg",CARTOON NETWORK
 udp://@225.1.2.231:30120
-#EXTINF:-1 tvg-id="dreamworks" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/VpCNDNmz/dreamworks.jpg",Dreamworks
+#EXTINF:-1 tvg-id="dreamworks" group-title="Kênh Quốc Tế" tvg-logo="",Dreamworks
 udp://@225.1.1.136:30120
-#EXTINF:-1 tvg-id="animalhd" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/jZbW4N1D/animalhd.jpg",Animal Planet
+#EXTINF:-1 tvg-id="animalhd" group-title="Kênh Quốc Tế" tvg-logo="",Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:-1 tvg-id="afnhd" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/HLHXD47b/afnhd.png",Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" group-title="Kênh Quốc Tế" tvg-logo="",Asian Food Network
 udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="outdoorhd" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/qYcbNsWy/outdoorhd.jpg",Outdoor Channel
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Kênh Quốc Tế" tvg-logo="",Outdoor Channel
 udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-id="bbcearth" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/yFhr2Mcs/bbcearth.jpg",BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="Kênh Quốc Tế" tvg-logo="",BBC Earth
 udp://@225.1.2.24:30120
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/k2GWWpVd/bbclifestyle.jpg",BBC Lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Kênh Quốc Tế" tvg-logo="",BBC Lifestyle
 udp://@225.1.2.52:30120
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/FkRPpV5M/discoveryasiahd.jpg",Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Kênh Quốc Tế" tvg-logo="",Discovery Asia
 udp://@225.1.2.223:30120
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/cfZgfbF/discoveryhd.jpg",Discovery Channel
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Kênh Quốc Tế" tvg-logo="",Discovery Channel
 udp://@225.1.1.238:30120
-#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/7tbtF7kt/fashionhd.png",Fashion TV
+#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh Quốc Tế" tvg-logo="",Fashion TV
 udp://@225.1.2.227:30120
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/99qVsxn9/bbcnews.png",BBC WORLD NEWS
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Kênh Quốc Tế" tvg-logo="",BBC WORLD NEWS
 udp://@225.1.2.74:30120
-#EXTINF:-1 tvg-id="bloomberg" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/k2QdLZhp/bloomberg.jpg",Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" group-title="Kênh Quốc Tế" tvg-logo="",Bloomberg
 udp://@225.1.2.91:30120
-#EXTINF:-1 tvg-id="abcaustralia" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/5hf7GF1p/abcaustralia.jpg",ABC AUSTRALIA
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Kênh Quốc Tế" tvg-logo="",ABC AUSTRALIA
 udp://@225.1.2.21:30120
-#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/YBrr9FvK/cna.jpg",CNA
+#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế" tvg-logo="",CNA
 udp://@225.1.1.202:30120
-#EXTINF:-1 tvg-id="cnn" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/Fktd9yRn/cnn.jpg",CNN
+#EXTINF:-1 tvg-id="cnn" group-title="Kênh Quốc Tế" tvg-logo="",CNN
 udp://@225.1.1.242:30120
-#EXTINF:-1 tvg-id="france24eng" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/XkFbvCtg/france24eng.png",FRANCE 24 (English)
+#EXTINF:-1 tvg-id="france24eng" group-title="Kênh Quốc Tế" tvg-logo="",FRANCE 24 (English)
 udp://@225.1.2.211:30120
-#EXTINF:-1 tvg-id="nhkworld" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/Kcb8CS1Z/nhkworld.png",NHK WORLD JAPAN
+#EXTINF:-1 tvg-id="nhkworld" group-title="Kênh Quốc Tế" tvg-logo="",NHK WORLD JAPAN
 udp://@225.1.1.47:30120
-#EXTINF:-1 tvg-id="tv5monde" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/TxfTnhk4/tv5monde.png",TV5 MONDE ASIE
+#EXTINF:-1 tvg-id="tv5monde" group-title="Kênh Quốc Tế" tvg-logo="",TV5 MONDE ASIE
 udp://@225.1.1.200:30120
-#EXTINF:-1 tvg-id="dw" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/NdqVRs7j/dw.jpg",DW
+#EXTINF:-1 tvg-id="dw" group-title="Kênh Quốc Tế" tvg-logo="",DW
 udp://@225.1.1.46:30120
-#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/21cGLtnL/cnbc.jpg",CNBC
+#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế" tvg-logo="",CNBC
 udp://@225.1.1.227:30120
-#EXTINF:-1 tvg-id="kbsworld" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/0VYLzvNc/kbsworld.jpg",KBS WORLD
+#EXTINF:-1 tvg-id="kbsworld" group-title="Kênh Quốc Tế" tvg-logo="",KBS WORLD
 udp://@225.1.1.196:30120
-#EXTINF:-1 tvg-id="arirang" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/5xh9Vw76/arirang.png",Arirang
+#EXTINF:-1 tvg-id="arirang" group-title="Kênh Quốc Tế" tvg-logo="",Arirang
 udp://@225.1.1.201:30120
 
 
