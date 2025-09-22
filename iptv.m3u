@@ -104,9 +104,9 @@ udp://@225.1.1.236:30120
 #udp://@225.1.1.135:30120
 #EXTINF:-1 tvg-id="cbeebies" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/cWnk2VS/cbeebies.jpg",BBC CbeeBies
 udp://@225.1.1.134:30120
-#EXTINF:-1 tvg-id="boomerang" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/ZRJGVyfy/Cartoonito-Logo-2021-svg.png",CARTOONITO
+#EXTINF:-1 tvg-id="boomerang" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/n8Z489Wz/cartoonito.png",CARTOONITO
 udp://@225.1.1.138:30120
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh Quốc Tế" tvg-logo="https://ibb.co/bMZFKSxs",CARTOON NETWORK
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/bMy9sG2B/cartoonhd.jpg",CARTOON NETWORK
 udp://@225.1.2.231:30120
 #EXTINF:-1 tvg-id="dreamworks" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/VpCNDNmz/dreamworks.jpg",Dreamworks
 udp://@225.1.1.136:30120
