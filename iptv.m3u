@@ -65,27 +65,27 @@ udp://@225.1.1.181:30120
 udp://@225.1.2.169:30120
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/b5xgHxrZ/qpvn.png",QPVN
 udp://@225.1.2.217:30120
-#EXTINF:-1 tvg-id="dongnai1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/gLBVv2tw/dongnai1.png",ĐNRTV1 HD _ TH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/m51rv68d/dnrtv1.png",ĐNRTV1 HD _ TH Đồng Nai
 udp://@225.1.1.152:30120
-#EXTINF:-1 tvg-id="dongnai2"  group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/spRJdpHv/dongnai2.png",ĐNRTV2 HD _ TH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai2"  group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/vvjt94Kj/dnrtv2.png",ĐNRTV2 HD _ TH Đồng Nai
 udp://@225.1.1.151:30120
-#EXTINF:-1 tvg-id="vinhlong1hd"  group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/kst5p6s4/vinhlong1hd.jpg",THVL1 HD _ TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong1hd"  group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/CKVQk7y6/thvl1.png",THVL1 HD _ TH Vĩnh Long
 udp://@225.1.1.155:30120
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/q35Qf4Hs/vinhlong2hd.jpg",THVL2 HD _ TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/nsc6gnRZ/thvl2.png",THVL2 HD _ TH Vĩnh Long
 udp://@225.1.1.154:30120
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/ynzYJFXS/vinhlong3hd.jpg",THVL3 HD _ TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/Kz2rzJrs/thvl3.png",THVL3 HD _ TH Vĩnh Long
 udp://@225.1.1.235:30120
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/j9WLfrW9/vinhlong4hd.png",THVL4 HD _ TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/Lhtc6R4M/thvl4.png",THVL4 HD _ TH Vĩnh Long
 udp://@225.1.2.25:30120
-#EXTINF:-1 tvg-id="binhduong1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/nsgQx9jk/binhduong1.png",BTV1 HD _ TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/svPSFQ6q/btv1.png",BTV1 HD _ TH Bình Dương
 udp://@225.1.1.150:30120
-#EXTINF:-1 tvg-id="binhduong2" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/SXQ94NFn/binhduong2.png",BTV2 HD _ TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong2" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/932ntY52/btv2.png",BTV2 HD _ TH Bình Dương
 udp://@225.1.1.149:30120
 #EXTINF:-1 tvg-id="anvienhd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/Qv94zFCv/btv9.jpg",BTV9
 udp://@225.1.2.189:30120
-#EXTINF:-1 tvg-id="hanoi1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/TDBWYYMY/hanoi1.png",H1 HD _ TH Hà Nội
+#EXTINF:-1 tvg-id="hanoi1" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/XxgG8zb7/hn1.png",H1 HD _ TH Hà Nội
 udp://@225.1.2.186:30120
-#EXTINF:-1 tvg-id="haiphong" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/k2JL5nSS/haiphong.png",THP HD _ TH TP. Hải Phòng
+#EXTINF:-1 tvg-id="haiphong" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/4ZHHVqxN/thp.png",THP HD _ TH TP. Hải Phòng
 udp://@225.1.1.44:30120
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Kênh Địa Phương" tvg-logo="",THP+ HD _ TH TP. Hải Phòng
 udp://@225.1.1.113:30120
