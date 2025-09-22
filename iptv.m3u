@@ -89,7 +89,7 @@ udp://@225.1.2.186:30120
 udp://@225.1.1.44:30120
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Kênh Địa Phương" tvg-logo="",THP+ HD _ TH TP. Hải Phòng
 udp://@225.1.1.113:30120
-#EXTINF:-1 tvg-id="sctv6hd" group-title="Kênh Quốc Gia" tvg-logo="https://i.ibb.co/Gf2DHDq6/sctv6.png",SCTV6
+#EXTINF:-1 tvg-id="sctv6hd" group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/Gf2DHDq6/sctv6.png",SCTV6
 udp://@225.1.1.188:30120
 #-------------------International Television-------------------#
 #EXTINF:-1 tvg-id="hbohd" group-title="Kênh Quốc Tế" tvg-logo="",HBO
