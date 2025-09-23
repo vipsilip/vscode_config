@@ -29,7 +29,7 @@ udp://@225.1.2.245:30120
 udp://@225.1.2.96:30120
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.ibb.co/RrGm5vH/vtv8hd.jpg",VTV8
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV tvg-logo="https://i.ibb.co/G46hhPpk/vtv9hd.jpg",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/G46hhPpk/vtv9hd.jpg",VTV9
 udp://@225.1.1.128:30120
 #-------------------HTV/HTVC-------------------#
 #EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/KcfcpvPb/htv1.jpg",HTV1
