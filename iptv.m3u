@@ -3,13 +3,13 @@
 
 #-------------------K+-------------------#
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/4ngRJvfc/kcine.jpg",K+CINE
-https://hls.mskycdn.online/tv/kcinehd/index.m3u8
+#https://hls.mskycdn.online/tv/kcinehd/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://i.ibb.co/d4Z73sWJ/kaction.jpg",K+ACTION
-https://hls.mskycdn.online/tv/kaction/index.m3u8
+#https://hls.mskycdn.online/tv/kaction/index.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/nNRBTrZ7/ksport1.jpg",K+SPORT1
-https://hls.mskycdn.online/tv/ksport1hd/index.m3u8
+#https://hls.mskycdn.online/tv/ksport1hd/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/N2G6smqH/ksport2.jpg",K+SPORT2
-https://hls.mskycdn.online/tv/ksport2hd/index.m3u8
+#https://hls.mskycdn.online/tv/ksport2hd/index.m3u8
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/8n0zCrjp/vtv1hd.jpg",VTV1
 udp://@225.1.2.249:30120
