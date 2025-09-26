@@ -2,11 +2,11 @@
 
 #-------------------Kênh đặc sắc-------------------#
 #EXTINF:-1 tvg-id="" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/20bXDsxL/spotv1.jpg",SPORTTV1
-https://hls.mskycdn.online/tv/spotv/index.m3u8
+#https://hls.mskycdn.online/tv/spotv/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/tw8M0YcR/spotv2.jpg",SPORTTV2
-https://hls.mskycdn.online/tv/spotv2/index.m3u8
+#https://hls.mskycdn.online/tv/spotv2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/XxGRvqgC/tvbvn.jpg",TVB VIỆT NAM
-https://hls.mskycdn.online/tv/tvbvn/index.m3u8
+#https://hls.mskycdn.online/tv/tvbvn/index.m3u8
 
 #-------------------K+-------------------#
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/4ngRJvfc/kcine.jpg",K+CINE
