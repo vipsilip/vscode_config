@@ -30,7 +30,7 @@ udp://@225.1.2.20:30120
 udp://@225.1.2.236:30120
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/wNyQ8sDG/vtv5hd.jpg",VTV5
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q3C2YKVK/vtvcantho.jpg",VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.ibb.co/Q3C2YKVK/vtvcantho.jpg",VTV Cần Thơ
 udp://@225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/35vZzwkP/vtv7hd.jpg",VTV7
 udp://@225.1.2.96:30120
@@ -45,7 +45,7 @@ udp://@225.1.1.180:30120
 udp://@225.1.1.193:30120
 #EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/5x5bdKYt/htv3.png",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:-1 tvg-id="htv4" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/TxLPBrHF/htvkey.png",HTV Keys
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/TxLPBrHF/htvkey.png",HTV Keys
 udp://@225.1.1.177:30120
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/bgfk12KY/htv7hd.jpg",HTV7 HD
 udp://@225.1.1.192:30120
@@ -63,7 +63,7 @@ udp://@225.1.1.170:30120
 udp://@225.1.1.184:30120
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/tpThWmdp/phunu.png",HTVC Phụ Nữ
 udp://@225.1.1.171:30120
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/yn5ZZSVT/thuanviet.jpg",HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/yn5ZZSVT/thuanviet.jpg",HTVC Thuần Việt
 udp://@225.1.1.186:30120
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.ibb.co/TM5KzWWf/htvcplus.png",HTVC+
 udp://@225.1.1.181:30120
@@ -139,7 +139,7 @@ udp://@225.1.2.74:30120
 udp://@225.1.2.91:30120
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/1Yv6yP5N/abcaustralia.jpg",ABC AUSTRALIA
 udp://@225.1.2.21:30120
-#EXTINF:-1 tvg-id="" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/nqr6Tvr2/cna.png",CNA
+#EXTINF:-1 tvg-id="cna" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/nqr6Tvr2/cna.png",CNA
 udp://@225.1.1.202:30120
 #EXTINF:-1 tvg-id="cnn" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/YFryPrx7/cnn.jpg",CNN
 udp://@225.1.1.242:30120
